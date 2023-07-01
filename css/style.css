@@ -1,0 +1,60 @@
+.navbar-color {
+    background-color: #ff4d6d;
+}
+html {
+    height: 5000px;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: #7e2535;
+}
+
+
+.img-head {
+    width: 200px;
+    height:200px;
+}
+
+.img-crs1 {
+    background-image: url(../img/img21.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: contain; 
+}
+
+
+
+
+.img-crs2 {
+    background-image: url(../img/img9.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: contain;
+}
+.img-crs3 {
+    background-image: url(../img/img17.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: contain;  
+}
+
+.img-this {
+    background-image: url(../img/img29.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: contain;  
+}
+
+.img-this2 {
+    background-image: url(../img/img10.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: contain;  
+}
+
+.mm1 {
+    background-image: url(../img/img7.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: contain;  
+}
+
